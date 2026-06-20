@@ -88,7 +88,9 @@ function App() {
             <h1 className="title-glow" style={{ fontSize: '2.5rem', display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
               <Activity size={36} color="var(--primary-color)" /> Serverless Orders
             </h1>
-            <p style={{ color: 'var(--text-muted)', marginTop: '0.5rem' }}>Monitoramento visual de processamento de pedidos (Portfolio)</p>
+            <p style={{ color: 'var(--text-muted)', marginTop: '0.5rem' }}>
+              Projeto desenvolvido na semana do desenvolvedor - Trilha AWS Developer - Escola da Nuvem
+            </p>
           </div>
           <button className="btn btn-primary" onClick={() => setIsModalOpen(true)}>
             <Plus size={20} /> Novo Pedido
@@ -134,6 +136,10 @@ function App() {
             </div>
           ))}
         </div>
+
+        <footer style={{ marginTop: 'auto', paddingTop: '2.5rem', paddingBottom: '0.5rem', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.85rem', borderTop: '1px solid var(--panel-border)' }}>
+          Desenvolvido por <strong style={{ color: 'var(--primary-color)' }}>Mariana Hoffmann</strong>
+        </footer>
       </main>
 
       {/* Modal Criar Pedido */}
