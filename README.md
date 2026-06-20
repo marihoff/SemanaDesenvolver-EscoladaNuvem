@@ -168,18 +168,13 @@ Ao final da jornada foi construída uma solução completa capaz de:
 
 **Mariana Hoffmann**
 
-Arquiteta | Estudante de Engenharia de Software | AWS Developer
-
-🔗 GitHub: [marihoff](https://github.com/marihoff?utm_source=chatgpt.com)
-
-🔗 LinkedIn: adicione aqui o link do seu perfil
+🔗 LinkedIn: [adicione aqui o link do seu perfil](https://www.linkedin.com/in/marianahoffmann/)
 
 ---
 
 ### 🌩️ Escola da Nuvem
 
-Projeto desenvolvido durante a **Semana do Desenvolvedor – Trilha AWS Developer**, aplicando conceitos de computação em nuvem, desenvolvimento serverless e arquitetura orientada a eventos na AWS. ([Amazon Web Services, Inc.][1])
+Projeto desenvolvido durante a **Semana do Desenvolvedor – Trilha AWS Developer**, aplicando conceitos de computação em nuvem, desenvolvimento serverless e arquitetura orientada a eventos na AWS.
 
-[1]: https://aws.amazon.com/pt/what-is/serverless-computing/?utm_source=chatgpt.com "O que é computação sem servidor? - Computação sem servidor explicada - AWS"
-[2]: https://aws.amazon.com/pt/training/classroom/developing-on-aws/?utm_source=chatgpt.com "Developing on AWS | Treinamento presencial | AWS"
-[3]: https://medium.com/%40vinisanths/jornada-serverless-dia-3-fechando-o-ciclo-com-eventbridge-e-dynamodb-94ce39296afc?utm_source=chatgpt.com "Jornada Serverless Dia 3: Fechando o Ciclo com EventBridge e DynamoDB | by Vinicius Santos | Medium"
+<img width="1023" height="603" alt="Capturar" src="https://github.com/user-attachments/assets/4632bbc4-aab4-4950-89b9-2b40e7fb08d4" />
+
